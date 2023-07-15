@@ -8,9 +8,9 @@ require("dotenv").config()
 const cloudinary = require("cloudinary");
 
 cloudinary.config({
-  cloud_name:"jobohunt",
-  api_key:"937199435421856",
-  api_secret:"gcfIlECosmTamuJ50-1A27VG8T8"
+  cloud_name:"Enter!",
+  api_key:"Enter!",
+  api_secret:"Enter!"
 })
 //  const pipeline = promisify(require("stream").pipeline);
 
